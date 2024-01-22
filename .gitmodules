@@ -1,0 +1,3 @@
+[submodule "submodules/Edukit_Rotary_Inverted_Pendulum_Project"]
+	path = submodules/Edukit_Rotary_Inverted_Pendulum_Project
+	url = git@github.com:QingmuDeng/Edukit_Rotary_Inverted_Pendulum_Project.git
