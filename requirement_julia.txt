@@ -1,1 +1,1 @@
-using Pkg; Pkg.add(["ControlSystems", "IJulia", "Plots"])
+using Pkg; Pkg.add(["ControlSystems", "IJulia", "Plots","PlotlyBase","PlotlyKaleido"])
