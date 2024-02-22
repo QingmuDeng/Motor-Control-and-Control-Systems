@@ -1,0 +1,3 @@
+using Pkg; Pkg.add("ControlSystems")
+using Pkg; Pkg.add("IJulia")
+using Pkg; Pkg.add("Plots")
