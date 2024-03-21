@@ -5,3 +5,4 @@ PySerial
 jupyterlab
 matplotlib
 seaborn
+sympy

@@ -1,1 +1,1 @@
-using Pkg; Pkg.add(["ControlSystems", "IJulia", "Plots","PlotlyBase","PlotlyKaleido"])
+using Pkg; Pkg.add(["ControlSystems", "IJulia", "Plots","PlotlyBase","PlotlyKaleido","PyPlot","Symbolics","Polynomials"])
